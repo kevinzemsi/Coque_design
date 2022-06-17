@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Coque_design</string>
+    <string name="home_page_title">A decouvrir</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="search_title">rechercher</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="coque_design">Coque design</string>
+    <string name="nom">Nom</string>
+    <string name="mot_de_pass">Mot de pass</string>
+    <string name="vous_n_avez_pas_encore_de_compte">Vous n\'avez pas encore de compte ?</string>
+    <string name="mot_de_pass_oubli">Mot de pass oublié?</string>
+    <string name="connexion">CONNEXION</string>
+    <string name="mot_de_passconnect">Mot de pass</string>
+    <string name="email">Email</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="coque_designconnect">Coque design</string>
+    <string name="confirmer_mot_de_pass">Confirmer Mot de pass</string>
+    <string name="emailinscript">Email</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="d_j_un_compte">Déjà un compte ?</string>
+    <string name="prenom">Prenom</string>
+    <string name="inscrire">S\'inscrire</string>
+    <string name="info">Vous avez besoin d\'un coque personnalisé? Vous etes au bon
+        endroit rechercher une photo ou déposer vos souvenir sur votre appareil
+    </string>
+    <string name="choix"> Choisis ton appareil</string>
+    <string name="telephone">Telephone</string>
+    <string name="ordinateur">Ordinateur</string>
+    <string name="vous_avez_besoin_d_un_coque_personnalis_vous_etes_au_bon_endroit_rechercher_une_photo_ou_d_poser_vos_souvenir_sur_votre_appareil">Vous avez besoin d\'un coque personnalisé? Vous etes au bon endroit rechercher une photo ou déposer vos souvenir sur votre appareil</string>
+    <string name="acceuil">ACCEUIL</string>
+    <string name="todo">TODO</string>
+    <string name="tod">TODO</string>
+    <string name="telecharger">Votre plus belle image</string>
+    <string name="retour">RETOUR</string>
+    <string name="button">Button</string>
+    <string name="telecher">Button</string>
+    <string name="impo">Button</string>
+    <string name="photo">Prendre une photo</string>
+    <string name="importer">Choisir une photo dans la gallerie</string>
+    <string name="recherche">Notre banque d\'images</string>
+    <string name="take">Button</string>
+    <string name="prend_une_photo">Prend une photo</string>
+    <string name="t">TODO</string>
+    <string name="retourchoix">RETOUR</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="me">TO</string>
+
+
+</resources>
